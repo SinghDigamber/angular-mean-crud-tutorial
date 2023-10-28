@@ -2,7 +2,7 @@
 
 [Build Angular 16 CRUD Application with Node Js REST API](https://www.positronx.io/build-angular-crud-application-with-nodejs-and-express-rest-api/)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.1.
+This project was developed by [Digamber Singh - positronX.io]([https://github.com/angular/angular-cli](https://www.positronx.io/author/digamber-singh/)) in Angular version 16.1.1.
 
 ## Development server
 
